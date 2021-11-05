@@ -21,5 +21,8 @@
 
 </div>
 
+#
+## Programming wizard apprentice, i love technological innovations, hope I can help you in some way, talk to me!
 
-
+#
+"All your need is a notepad and the world becomes your canvas"
