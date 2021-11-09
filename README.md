@@ -1,8 +1,8 @@
  Olá, meu nome é <strong>{Felipe}!</strong>
 
-- 🤔 &nbsp; Apaixonado por 
-- 🎓 &nbsp; Estudando **Desenvolvimento mobile*!
-- 🌱 &nbsp; Aprendendo mais sobre **NFlutter , Firebase , Hasura ...**.
+- 🧐 &nbsp; Apaixonado por inovações tecnologicas, sushi e gatos.
+- 🎓 &nbsp; Estudando **Desenvolvimento mobile**!
+- 🌱 &nbsp; Aprendendo mais sobre **Flutter , Firebase , Hasura , UX...**.
 
 
                                                         
