@@ -21,7 +21,8 @@
 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipelemostb&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipelemostb&show_icons=true&theme=dark)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelemostb&layout=compact)](https://github.com/felipelemostb/github-readme-stats&theme=dark)
+
 
 
 ----
