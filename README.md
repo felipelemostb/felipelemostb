@@ -2,7 +2,7 @@
 
 - 🧐 &nbsp; Apaixonado por inovações tecnologicas, sushi e gatos.
 - 🎓 &nbsp; Estudando **Desenvolvimento mobile**!
-- 🌱 &nbsp; Aprendendo mais sobre **Flutter , Firebase , Hasura , UX...**.
+- 🌱 &nbsp; Aprendendo mais sobre **Flutter , Firebase, UX...**.
 
 
                                                         
