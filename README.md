@@ -1,7 +1,7 @@
  Olá, meu nome é <strong>{Felipe}!</strong>
 
 - 🧐 &nbsp; Apaixonado por inovações tecnologicas, sushi e gatos.
-- 🎓 &nbsp; Estudando **Desenvolvimento mobile**!
+- 🎓 &nbsp;  **Desenvolvedor mobile**!
 - 🌱 &nbsp; Aprendendo mais sobre **Flutter , Firebase, UX...**.
 
 
